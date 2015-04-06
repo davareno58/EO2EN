@@ -1,0 +1,212 @@
+﻿Build started 04/05/2015 7:56:51 PM.
+     1>Project "C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\EO2EN\EO2EN.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\EO2EN.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EO2EN.cpp
+         EO2EN.cpp
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0109' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u011D' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0125' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0135' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u015D' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u016D' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0108' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u011C' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0124' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u0134' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u015C' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(122): warning C4566: character represented by universal-character-name '\u016C' cannot be represented in the current code page (1252)
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(451): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(458): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(521): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(633): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(659): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(662): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(924): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(1875): warning C4101: 'p' : unreferenced local variable
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(2087): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(2513): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3210): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3210): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3239): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3515): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3588): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(3749): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4152): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4547): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4555): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4563): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4571): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4579): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4586): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4593): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4600): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4613): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4686): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4813): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4818): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4830): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4839): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4848): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(4961): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5116): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5328): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5334): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5343): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5353): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5362): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5494): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5652): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5791): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5807): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5809): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5823): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(5990): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6447): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6459): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6464): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6467): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6634): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6691): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(6779): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7008): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7031): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7036): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7041): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7045): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7318): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7513): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7584): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7585): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7677): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7741): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(7824): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8241): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8264): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8411): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8446): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8447): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8448): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8449): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8450): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8451): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8460): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8461): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8462): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8463): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8472): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8473): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8474): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8475): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8484): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8485): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8486): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8487): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8497): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8498): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8499): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8500): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8509): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8510): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8511): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8512): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8521): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8522): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8523): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8524): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8533): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8534): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8535): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8536): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8545): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8546): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8547): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8548): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8557): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8558): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8559): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8560): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8569): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8570): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8571): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8572): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8581): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8582): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8583): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8584): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8593): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8594): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8595): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8596): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8605): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8606): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8607): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8608): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8617): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8618): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8619): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8620): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8629): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8630): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8631): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8632): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8639): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8648): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8657): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8666): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8675): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8684): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8693): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8702): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8711): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8720): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8729): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8738): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8921): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8923): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8961): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8963): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(8998): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9001): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9004): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9015): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9018): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9021): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9032): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9035): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9038): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9054): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9062): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9238): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9390): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9672): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9675): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9770): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(9783): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10102): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10132): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10162): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10193): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10224): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10255): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10286): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10314): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10339): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10377): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(10403): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(11421): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(13858): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(13862): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(15409): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(15893): warning C4804: '>=' : unsafe use of type 'bool' in operation
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(16073): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\dave\documents\visual studio 2013\projects\eo2en\eo2en\eo2en.cpp(16099): warning C4018: '>' : signed/unsigned mismatch
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\Debug\EO2EN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\Debug\EO2EN.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\Debug\EO2EN.lib" /MACHINE:X86 Debug\EO2EN.obj
+         Debug\stdafx.obj
+         EO2EN.vcxproj -> C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\Debug\EO2EN.exe
+     1>Done Building Project "C:\Users\Dave\Documents\Visual Studio 2013\Projects\EO2EN\EO2EN\EO2EN.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:20.32
